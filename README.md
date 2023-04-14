@@ -14,8 +14,8 @@ Curso de Introdução ao Risco de Mercado com Python ministrado por mim na Finan
     <br>
 </div>
 
-Entenda, de uma vez por todas, o que é e como usar o VaR (Value at Risk), além de outras medidas de risco de uma forma prática e objetiva como você nunca viu antes. Esse curso serve como um acelerador de conhecimento para entrantes no tema e serve para firmar os conhecimentos de gestores e outros que já atuam na área, mas não possuem total domínio.
-O curso não somente elucida os conceitos teóricos com aplicação prática de uma carteira de ativos, usando linguagem de programação Python, como também discute as implicações do uso dos modelos de VaR no dia a dia, incluindo processos de validação por backtests e critérios de seleção dos modelos.
+Você será capaz de entender o que é e como usar o VaR (**Value at Risk**), além de outras medidas de risco de uma forma prática e objetiva como você nunca viu antes. Esse curso serve como um acelerador de conhecimento para entrantes no tema e serve para firmar os conhecimentos de gestores e outros que já atuam na área, mas não possuem total domínio.
+O curso não somente elucida os conceitos teóricos com aplicação prática de uma carteira de ativos, usando **linguagem de programação Python**, como também discute as implicações do uso dos modelos de VaR no dia a dia, incluindo processos de validação por *backtests* e critérios de seleção dos modelos.
 
 ## Objetivos do Curso:
 <div align="center">
@@ -24,7 +24,7 @@ O curso não somente elucida os conceitos teóricos com aplicação prática de 
 
 Não somente aprofundar os fundamentos por trás dos modelos clássicos de VaR e outras medidas de risco para quem já possui familiaridade com o tema, mas também serve como formação para aqueles que estão ingressando ou pretendem ingressar no assunto. 
 O curso vai além de um simples curso de introdução e promove a discussão da relação entre desempenho estatístico dos modelos de VaR e seus reflexos na gestão do dia a dia de risco de mercado que você não encontra em artigos, livros e cursos por aí.
-Ademais,  o curso promove a disseminação do uso do Python como linguagem de programação, uma das linguagens mais usadas atualmente nas Universidades e Corporações, principalmente em Machine Learning.
+Ademais,  o curso promove a disseminação do uso do Python como linguagem de programação, uma das linguagens mais usadas atualmente nas Universidades e Corporações, principalmente em *Machine Learning*.
 
 ## Público Alvo e Pré-requisitos:
 <div align="center">
@@ -39,7 +39,7 @@ Profissionais de instituições financeiras e fundos de pensão (estagiários, o
     <br>
 </div>
 
-O treinamento será composto por 7 módulos contendo conceitos teóricos e práticos em programação em Python desde captura de dados passando pela análise estatística e gráfica e apresentando suas implicações em questões práticas da rotina de gerenciamento de risco de mercado. Os códigos e scripts serão fornecidos para serem usados livremente por alunos.
+O treinamento será composto por 7 módulos contendo conceitos teóricos e práticos em programação em Python desde captura de dados passando pela análise estatística e gráfica e apresentando suas implicações em questões práticas da rotina de gerenciamento de risco de mercado. **Os códigos e *scripts* serão fornecidos para serem usados livremente por alunos.**
 
 ## Programa
 <div align="center">
@@ -86,7 +86,7 @@ O treinamento será composto por 7 módulos contendo conceitos teóricos e prát
 - Métodos Avançados de Monte Carlo; 
 - Exemplo de Modelagem Bayesiana com MCMC e algoritmo NUTS.
 
-## Módulo 4 - Distribuição de Perdas e Ganhos da Carteira e Metodologia RiskMetrics
+## Módulo 4 - Distribuição de Perdas e Ganhos da Carteira e Metodologia *RiskMetrics*
 
 - Baixando dados de índice e analisando correlações;
 - Exposição ao Risco de Mercado e Peso das Ações;
