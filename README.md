@@ -35,14 +35,14 @@ Ademais,  o curso promove a disseminação do uso do Python como linguagem de pr
 Profissionais de instituições financeiras e fundos de pensão (estagiários, operadores/traders, analistas, gestores, auditores internos e de validação), consultorias e órgãos reguladores especialmente os envolvidos em gestão financeira e gestão de risco de mercado.
 É desejável que você tenha conhecimento básico de qualquer linguagem de programação e estatística. Apesar de usarmos o Python, se você já conhece alguma outra linguagem, será capaz de absorver o conhecimento sem problemas.
 
-## Metodologia (Teoria e Prática)
+## Metodologia (Teoria e Prática):
 <div align="center">
     <br>
 </div>
 
 O treinamento será composto por 7 módulos contendo conceitos teóricos e práticos em programação em Python desde captura de dados passando pela análise estatística e gráfica e apresentando suas implicações em questões práticas da rotina de gerenciamento de risco de mercado. **Os códigos e *scripts* serão fornecidos para serem usados livremente por alunos.**
 
-## Programa
+## Programa:
 <div align="center">
     <br>
 </div>
