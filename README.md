@@ -1,12 +1,13 @@
 <div align="center">
    <a href="https://financial-risk-academy.teachable.com/courses/">
-   <img src="logo.PNG" width="50%" 
+   <img src="logo.PNG" width="20%" 
    style="margin-left: auto; margin-right: auto; display:block;">
    </a>
   </br>
 </div>
 
-Curso de Introdução ao Risco de Mercado com Python ministrado por mim na Financial Risk Academy (https://financial-risk-academy.teachable.com/courses/).
+Curso de Introdução ao Risco de Mercado com Python ministrado por mim na Financial Risk Academy: 
+      https://financial-risk-academy.teachable.com/courses/
 
 ## Apresentação do Curso:
 <div align="center">
