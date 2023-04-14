@@ -11,7 +11,7 @@ Curso de Introdução ao Risco de Mercado com Python ministrado por mim na Finan
       https://financial-risk-academy.teachable.com/courses/
 
 <div align="center">
-   <img src="video apresentacao.gif" width="20%" 
+   <img src="video apresentacao.gif" width="50%" 
    style="margin-left: auto; margin-right: auto; display:block;">
    </a>
   </br>
