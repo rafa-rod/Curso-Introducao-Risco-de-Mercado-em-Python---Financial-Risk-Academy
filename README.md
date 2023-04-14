@@ -1,6 +1,6 @@
 <div align="center">
    <a href="https://financial-risk-academy.teachable.com/courses/">
-   <img src="logo.PNG" width="100%" 
+   <img src="logo.PNG" width="50%" 
    style="margin-left: auto; margin-right: auto; display:block;">
    </a>
   </br>
