@@ -6,7 +6,8 @@
   </br>
 </div>
 
-Curso de Introdução ao Risco de Mercado com Python ministrado por mim na Financial Risk Academy: 
+Curso de Introdução ao Risco de Mercado com Python ministrado por mim na Financial Risk Academy:
+
       https://financial-risk-academy.teachable.com/courses/
 
 ## Apresentação do Curso:
